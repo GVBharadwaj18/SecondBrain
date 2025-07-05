@@ -1,4 +1,5 @@
 📚 SecondBrain – A Personal Content Organizer
+
 SecondBrain is a vibrant and modern web application to save, organize, and share your favorite content. With support for YouTube, Twitter (X), Instagram, and LinkedIn links, SecondBrain becomes your personal hub for managing social media and content links.
 
 🎨 Animated UI | 🗂 Platform Filters | 🔐 Secure Auth
