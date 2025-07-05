@@ -22,6 +22,16 @@ SecondBrain is a vibrant and modern web application to save, organize, and share
 
 📧 Forgot password with OTP-based reset (built with the help of ChatGPT as a learning exercise!).
 
+📸 Screenshots
+
+###Homepage
+![Homepage Screenshot](assets/homepage.png)
+
+###Signin & Signup
+![Signin](assets/signin.png)
+
+![Signup](assets/signup.png)
+
 🛠 Tech Stack
 
 Frontend:
